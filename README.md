@@ -1,6 +1,6 @@
-# 🏛️ Archive: Freshman Year Web Project (202x)
+# 🏛️ Archive: Freshman Year Web Project (2024)
 
-> **⚠️ NOTE TO RECRUITERS & DEVS:**
+> **⚠️ NOTE:**
 > *This repository has been intentionally preserved in its original state to demonstrate my progression as a an Individual pursuing tech. It represents my technical knowledge during my first year of college.*
 
 ---
