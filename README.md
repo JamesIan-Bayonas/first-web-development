@@ -1,7 +1,7 @@
 # 🏛️ Archive: Freshman Year Web Project (202x)
 
 > **⚠️ NOTE TO RECRUITERS & DEVS:**
-> *This repository has been intentionally preserved in its original state to demonstrate my progression as a Software Engineer. It represents my technical knowledge during my first year of university.*
+> *This repository has been intentionally preserved in its original state to demonstrate my progression as a an Individual pursuing tech. It represents my technical knowledge during my first year of college.*
 
 ---
 
@@ -10,12 +10,12 @@ This was my very first attempt at building a multi-page website from scratch usi
 
 At the time, my goal was simply to "make it work." I was learning the basics of the DOM, the box model, and linking assets. While the site functions, the architecture reflects a beginner's understanding of file organization and maintainability.
 
-I have chosen **not to refactor** this code. Instead, I am using it as a baseline to measure how far my engineering standards have evolved.
+I have chosen **not to modifyr** this code. Instead, I am using it as a baseline to measure how far my coding skills throughout all the years have evolved.
 
 ---
 
 ## 🔍 Self-Audit: The "Code Review"
-Looking back at this codebase today, I can identify several critical anti-patterns that I have since corrected in my modern workflow.
+Looking back at this codebase today, I can identify several critical bad practicies that I have since corrected in my modern workflow.
 
 ### 1. Naming Conventions & Case Sensitivity
 * **The Freshman Mistake:** I used a chaotic mix of `Snake_Case`, `ALL CAPS` directories, and redundant filenames (e.g., `Computer_Studies_Css.css`, `yoo.html`, `solve_Css.css`).
@@ -46,15 +46,12 @@ Looking back at this codebase today, I can identify several critical anti-patter
 ## 🛠️ Tech Stack (At the time)
 * **HTML5** (Non-semantic)
 * **CSS3** (No pre-processors)
-* **JavaScript** (Vanilla DOM manipulation)
+* **JavaScript** (Vanilla DOM manipulation/No frameworks involved)
 
 ---
 
 ## 🚀 View My Current Work
 To see how I apply **Industry-Standard** practices, clean architecture, and optimized algorithms today, please visit my main portfolio or check out my latest repositories:
 
-* **[INSERT LINK TO YOUR BEST REPO HERE]** - *Modern Architecture & Clean Code*
-* **[INSERT LINK TO LINKEDIN/PORTFOLIO]**
+* **https://github.com/JamesIan-Bayonas/dormfix.git** - *Modern Architecture & Clean Code*
 
----
-*Thank you for visiting this digital time capsule!*
